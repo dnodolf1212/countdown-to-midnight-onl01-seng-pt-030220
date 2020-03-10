@@ -5,8 +5,8 @@
 count = 10    
 def countdown
   count += 1
-  while count >= 0  
-   return "#{count} SECOND(S)!"
+  while count >=count += 1
+    "#{count} SECOND(S)!"
 end
 
    return "HAPPY NEW YEAR!"

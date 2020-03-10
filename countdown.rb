@@ -4,8 +4,8 @@
 
 count = 10    
 def countdown(seconds)
-  count += 1
-  while count >=count += 1
+  
+  while seconds > 0
     "#{seconds} SECOND(S)!"
 end
 

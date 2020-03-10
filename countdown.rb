@@ -3,10 +3,10 @@
 #output --> a string ' #SECONDS' with the seconds counted interpolated into each looped string
 
 count = 10    
-def countdown
+def countdown(seconds)
   count += 1
   while count >=count += 1
-    "#{count} SECOND(S)!"
+    "#{seconds} SECOND(S)!"
 end
 
    return "HAPPY NEW YEAR!"
